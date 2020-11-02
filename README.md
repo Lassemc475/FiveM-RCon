@@ -1,6 +1,6 @@
 # FiveM-RCon
  
-##Hvordan starter jeg?
+## Hvordan starter jeg?
 1. Start med at sæt resourcen ind på din server.
 2. Upload indholdet fra mappen "PHP" til en webserver.
 3. Ændre config.php så den peger mod din FXServer.
